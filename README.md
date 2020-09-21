@@ -19,7 +19,7 @@ Unix or windows export  dataset to ms access mdb in unix without sas access.
     ======
 
        1. Because MS Access has changed the layout of access databases many times you need to use
-          the demo.mdb that SAS provides or get one off the net. Should with accdb.
+          the demo.mdb that SAS provides or get one off the net. Should also work with accdb.
 
           C:\Program Files\sashome\SASFoundation\9.4\access\sasmisc\demo.mdb
 
